@@ -8,6 +8,7 @@ Dynamic Input Icons is a Unity Package that switches input prompts automatically
 3. Create a empty GameObject, name it "Icon Manager" and add the **IconManager** script to it.
 4. Reference in the "Keyboard Mouse Scheme", the "Ps 4 Scheme" and the "XboxScheme" your control schemes from your Input Action Asset (It's case sensitive!)
 5. Add the amount of switches that you need (one switch can be used for multiple sprites or UI images) For example:
+
    ![Example Switch](https://otto-spaude.me/gh-media/dynii_01.png)
    
    The **Name** changes nothing but can help you with orientation when you use a lot of switches. In the example, the switch has the same name as the keys it uses.
